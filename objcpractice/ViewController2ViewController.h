@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ViewController2ViewController.h
 //  objcpractice
 //
 //  Created by Akilesh Bapu on 2/14/16.
@@ -7,10 +7,6 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "ViewController2ViewController.h"
 
-@interface ViewController : UIViewController
-@property int *hello;
-
+@interface ViewController2ViewController : UIViewController
 @end
-

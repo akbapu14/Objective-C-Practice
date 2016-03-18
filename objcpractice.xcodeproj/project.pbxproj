@@ -15,6 +15,7 @@
 		4175C1831C71A6D100F44AF0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4175C1811C71A6D100F44AF0 /* LaunchScreen.storyboard */; };
 		4175C18E1C71A6D200F44AF0 /* objcpracticeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4175C18D1C71A6D200F44AF0 /* objcpracticeTests.m */; };
 		4175C1991C71A6D200F44AF0 /* objcpracticeUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4175C1981C71A6D200F44AF0 /* objcpracticeUITests.m */; };
+		4175C1A81C71A83900F44AF0 /* ViewController2ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4175C1A71C71A83900F44AF0 /* ViewController2ViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		4175C1941C71A6D200F44AF0 /* objcpracticeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = objcpracticeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4175C1981C71A6D200F44AF0 /* objcpracticeUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = objcpracticeUITests.m; sourceTree = "<group>"; };
 		4175C19A1C71A6D200F44AF0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4175C1A61C71A83900F44AF0 /* ViewController2ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController2ViewController.h; sourceTree = "<group>"; };
+		4175C1A71C71A83900F44AF0 /* ViewController2ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController2ViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +109,8 @@
 				4175C1791C71A6D100F44AF0 /* ViewController.h */,
 				4175C17A1C71A6D100F44AF0 /* ViewController.m */,
 				4175C17C1C71A6D100F44AF0 /* Main.storyboard */,
+				4175C1A61C71A83900F44AF0 /* ViewController2ViewController.h */,
+				4175C1A71C71A83900F44AF0 /* ViewController2ViewController.m */,
 				4175C17F1C71A6D100F44AF0 /* Assets.xcassets */,
 				4175C1811C71A6D100F44AF0 /* LaunchScreen.storyboard */,
 				4175C1841C71A6D100F44AF0 /* Info.plist */,
@@ -275,6 +280,7 @@
 			files = (
 				4175C17B1C71A6D100F44AF0 /* ViewController.m in Sources */,
 				4175C1781C71A6D100F44AF0 /* AppDelegate.m in Sources */,
+				4175C1A81C71A83900F44AF0 /* ViewController2ViewController.m in Sources */,
 				4175C1751C71A6D100F44AF0 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
